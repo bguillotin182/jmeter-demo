@@ -9,4 +9,4 @@
 
 # How to set up Jmeter on Jenkins
 
-    Use Perforance plugin https://wiki.jenkins-ci.org/display/JENKINS/Performance+Plugin.  This will show a nice chart on Jenkins. 
+Use the Perforance plugin https://wiki.jenkins-ci.org/display/JENKINS/Performance+Plugin.  This will show a nice chart on Jenkins. 
